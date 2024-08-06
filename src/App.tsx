@@ -9,7 +9,7 @@ function App() {
       <div className="fixed-div">
         <h1>Use-scroll-direction Showcase</h1>
         <p>Try scrolling your mouse over this page.</p>
-        <p>Scrolling direction is {dir}</p>
+        <p>Scrolling direction is <span className='dir'>{dir}</span></p>
       </div>
       
       <div className="placeholder-div">

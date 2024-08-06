@@ -71,3 +71,9 @@ p {
 #root {
   width: 100%;
 }
+
+.dir {
+  font-size: large;
+  font-weight: 700;
+  color: rgb(206, 23, 114);
+}
